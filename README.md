@@ -4,7 +4,7 @@ I wanted to find out at what discount level a store starts losing money, and whe
 
 ## Data
 
-Global Superstore dataset from Kaggle, a sample dataset of a made-up global retail store: [Global Superstore Data on Kaggle][https://www.kaggle.com/datasets/rohitgrewal/global-superstore-data]. It has about 51,000 order lines with sales, discount and profit for each one. This is not real company data.
+[Global Superstore dataset](https://www.kaggle.com/datasets/rohitgrewal/global-superstore-data) from Kaggle, a sample dataset of a made-up global retail store. It has about 51,000 order lines with sales, discount and profit for each one. This is not real company data.
 
 ## Process (in Excel)
 
